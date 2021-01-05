@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: white;
+	--background: linear-gradient(to bottom, #e0c8f4 0%, #bfe5ff 4%, #fffce2 19%, #ffe8c9 30%, #ffd8dc 40%, #d8f6ff 54%, #c2eac6 73%, #ffffff 97%);
 }
 
 *, *:before, *:after {
