@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -179,7 +179,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid #ccc;
 }
 
 button {
